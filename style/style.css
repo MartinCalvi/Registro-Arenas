@@ -21,7 +21,7 @@ header {
     background-size: cover;
     text-align: center;
     padding-bottom: 15px;
-    /*margin-bottom: 20px;*/
+    
     border-bottom: 1px solid #eee;
     /*margin-left: 220px;
     margin-right: 220px;*/
@@ -211,8 +211,8 @@ a{
     header{
         text-align: center;
         border: #007bff solid 3px;
-        margin-right: 20px;
-        margin-left: 20px;
+        /*margin-right: 20px;
+        margin-left: 20px;*/
         padding-left: 10px;
         padding-right: 10px;
     }
